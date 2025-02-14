@@ -3,7 +3,7 @@ pref:{
 acc:1,
 rkt:1,
 hsr:0,
-atp:false
+atp:true
 },
 si422:{
 name:'Paragraph_1',
@@ -2365,7 +2365,7 @@ passFailPassingScoreTypeInPrecent:true,
 passFailPassingScoreValue:80,
 showRetake:false,
 showReviewButtons:true,
-oid:'$$OBJECTIVE_ID',
+oid:'Quiz_2025214161523',
 quizVariableVsIdMap:{
 learnerId:'var346',
 learnerName:'var347',
